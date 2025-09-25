@@ -1,4 +1,4 @@
-gunicorn
+gunicorn==21.2.0
 blinker==1.8.2
 click==8.1.8
 exceptiongroup==1.2.2
@@ -20,4 +20,5 @@ tomli==2.2.1
 typing-extensions==4.12.2
 werkzeug==3.0.6
 zipp==3.20.2
-flask-login
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
